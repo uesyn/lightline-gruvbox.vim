@@ -27,7 +27,7 @@ if s:is_dark
 	let s:mono2   = '#504945'
 	let s:mono3   = '#665c54'
 	let s:mono4   = '#7c6f64'
-	let s:mono5   = '#928374'
+	let s:mono5   = '#fbf1c7'
 	let s:c_mono1 = 237
 	let s:c_mono2 = 239
 	let s:c_mono3 = 241
